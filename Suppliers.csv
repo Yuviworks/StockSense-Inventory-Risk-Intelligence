@@ -1,0 +1,13 @@
+SupplierID,SupplierName,SupplierRegion,AvgLeadTimeDays,OnTimeDeliveryRate,DefectRate
+SUP001,Supplier A,Central,16,0.938,0.077
+SUP002,Supplier B,South,8,0.927,0.057
+SUP003,Supplier C,South,6,0.968,0.021
+SUP004,Supplier D,East,11,0.952,0.065
+SUP005,Supplier E,East,7,0.99,0.007
+SUP006,Supplier F,North,7,0.958,0.044
+SUP007,Supplier G,North,13,0.866,0.071
+SUP008,Supplier H,West,12,0.831,0.042
+SUP009,Supplier I,East,7,0.904,0.034
+SUP010,Supplier J,Central,13,0.725,0.031
+SUP011,Supplier K,West,14,0.734,0.039
+SUP012,Supplier L,Central,3,0.954,0.021

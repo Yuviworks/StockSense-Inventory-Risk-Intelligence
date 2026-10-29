@@ -1,0 +1,25 @@
+SKU,ProductName,Category,SupplierID,UnitCostINR,TargetDailyDemand,SafetyStockUnits,ReorderPointUnits,OrderQuantityUnits
+SKU001,USB-C Hub,Electronics,SUP009,4396,9,25,88,180
+SKU002,Wireless Mouse,Electronics,SUP006,606,4,27,55,80
+SKU003,Keyboard,Electronics,SUP005,6868,9,48,111,180
+SKU004,Webcam,Electronics,SUP009,7466,20,45,185,400
+SKU005,Headphones,Electronics,SUP003,7588,11,29,95,220
+SKU006,Monitor Stand,Electronics,SUP006,2800,13,20,111,260
+SKU007,A4 Paper,Office Supplies,SUP002,6489,21,47,215,420
+SKU008,Notebook Pack,Office Supplies,SUP005,494,13,10,101,260
+SKU009,Ink Cartridge,Office Supplies,SUP006,6180,3,39,60,60
+SKU010,Pens Box,Office Supplies,SUP005,522,18,50,176,360
+SKU011,Desk Organizer,Office Supplies,SUP012,2194,9,29,56,180
+SKU012,Stapler,Office Supplies,SUP002,249,25,41,241,500
+SKU013,LED Lamp,Home & Living,SUP010,5699,21,43,316,420
+SKU014,Storage Box,Home & Living,SUP003,6073,15,41,131,300
+SKU015,Water Bottle,Home & Living,SUP010,1682,15,21,216,300
+SKU016,Desk Fan,Home & Living,SUP005,7513,7,17,66,140
+SKU017,Extension Board,Home & Living,SUP004,2579,4,44,88,80
+SKU018,Chair Cushion,Home & Living,SUP006,1402,13,13,104,260
+SKU019,Screwdriver Set,Tools & Hardware,SUP007,6952,5,29,94,100
+SKU020,Drill Bits,Tools & Hardware,SUP005,4014,24,35,203,480
+SKU021,Measuring Tape,Tools & Hardware,SUP002,4528,20,15,175,400
+SKU022,Safety Gloves,Tools & Hardware,SUP011,4440,10,24,164,200
+SKU023,Cable Ties,Tools & Hardware,SUP005,6644,21,20,167,420
+SKU024,Toolbox,Tools & Hardware,SUP005,4883,4,41,69,80
